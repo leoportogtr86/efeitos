@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/efeitos/static/css/main.e0a25659.chunk.css",
-    "main.js": "/efeitos/static/js/main.8649f555.chunk.js",
-    "main.js.map": "/efeitos/static/js/main.8649f555.chunk.js.map",
+    "main.js": "/efeitos/static/js/main.9918e78c.chunk.js",
+    "main.js.map": "/efeitos/static/js/main.9918e78c.chunk.js.map",
     "runtime-main.js": "/efeitos/static/js/runtime-main.3eb4e010.js",
     "runtime-main.js.map": "/efeitos/static/js/runtime-main.3eb4e010.js.map",
     "static/js/2.6ff80ad2.chunk.js": "/efeitos/static/js/2.6ff80ad2.chunk.js",
     "static/js/2.6ff80ad2.chunk.js.map": "/efeitos/static/js/2.6ff80ad2.chunk.js.map",
     "index.html": "/efeitos/index.html",
-    "precache-manifest.734ebfea0f2d117a7a00400893a1dd88.js": "/efeitos/precache-manifest.734ebfea0f2d117a7a00400893a1dd88.js",
+    "precache-manifest.c05a3c51da3c8e18b44b9ba92bc7f162.js": "/efeitos/precache-manifest.c05a3c51da3c8e18b44b9ba92bc7f162.js",
     "service-worker.js": "/efeitos/service-worker.js",
     "static/css/main.e0a25659.chunk.css.map": "/efeitos/static/css/main.e0a25659.chunk.css.map",
     "static/js/2.6ff80ad2.chunk.js.LICENSE.txt": "/efeitos/static/js/2.6ff80ad2.chunk.js.LICENSE.txt",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.3eb4e010.js",
     "static/js/2.6ff80ad2.chunk.js",
     "static/css/main.e0a25659.chunk.css",
-    "static/js/main.8649f555.chunk.js"
+    "static/js/main.9918e78c.chunk.js"
   ]
 }
