@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/efeitos/static/css/main.e0a25659.chunk.css",
+    "main.js": "/efeitos/static/js/main.8649f555.chunk.js",
+    "main.js.map": "/efeitos/static/js/main.8649f555.chunk.js.map",
+    "runtime-main.js": "/efeitos/static/js/runtime-main.3eb4e010.js",
+    "runtime-main.js.map": "/efeitos/static/js/runtime-main.3eb4e010.js.map",
+    "static/js/2.6ff80ad2.chunk.js": "/efeitos/static/js/2.6ff80ad2.chunk.js",
+    "static/js/2.6ff80ad2.chunk.js.map": "/efeitos/static/js/2.6ff80ad2.chunk.js.map",
+    "index.html": "/efeitos/index.html",
+    "precache-manifest.734ebfea0f2d117a7a00400893a1dd88.js": "/efeitos/precache-manifest.734ebfea0f2d117a7a00400893a1dd88.js",
+    "service-worker.js": "/efeitos/service-worker.js",
+    "static/css/main.e0a25659.chunk.css.map": "/efeitos/static/css/main.e0a25659.chunk.css.map",
+    "static/js/2.6ff80ad2.chunk.js.LICENSE.txt": "/efeitos/static/js/2.6ff80ad2.chunk.js.LICENSE.txt",
+    "static/media/chorus.svg": "/efeitos/static/media/chorus.90003449.svg",
+    "static/media/delay.svg": "/efeitos/static/media/delay.d111bda0.svg",
+    "static/media/distorcao.svg": "/efeitos/static/media/distorcao.5d0f62f0.svg",
+    "static/media/equalizador.svg": "/efeitos/static/media/equalizador.f1a43f82.svg",
+    "static/media/flanger.svg": "/efeitos/static/media/flanger.d62ae827.svg",
+    "static/media/overdrive.svg": "/efeitos/static/media/overdrive.eb75bb32.svg",
+    "static/media/phaser.svg": "/efeitos/static/media/phaser.dd92c3b8.svg",
+    "static/media/reverb.svg": "/efeitos/static/media/reverb.bd0d23ce.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3eb4e010.js",
+    "static/js/2.6ff80ad2.chunk.js",
+    "static/css/main.e0a25659.chunk.css",
+    "static/js/main.8649f555.chunk.js"
+  ]
+}
