@@ -111,9 +111,9 @@ export default (props) => {
         </div>
       </div>
 
-      <div className="container w-50">
+      <div className="container w-100">
         <div className="row">
-          <div className="col-12">
+          <div className="col-12 col-lg-4">
             <div id = "controle" className="carousel slide" data-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
