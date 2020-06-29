@@ -99,8 +99,10 @@ export default (props) => {
     <div>
       <h1 className="text-center text-danger">Efeitos de Guitarra</h1>
 
-      <div className="container-fluid">
-        <div className="row">
+      
+
+      <div className="container w-100">
+      <div className="row">
           <div className="col">
             <Alerta className={classe} titulo={titulo} info={info} />
           </div>
@@ -109,9 +111,6 @@ export default (props) => {
             <Video src={srcVideo} />
           </div>
         </div>
-      </div>
-
-      <div className="container w-100">
         <div className="row">
           <div className="col-12 col-lg-4">
             <div id = "controle" className="carousel slide" data-ride="carousel">
