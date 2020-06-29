@@ -1,0 +1,18 @@
+.pedal{
+
+    width:100%;
+    cursor: pointer;
+    margin: auto;
+    display: block;
+}
+
+.bg-purple{
+
+    background-color: rgb(170, 16, 170);
+}
+
+.bg-brown{
+
+    background-color: saddlebrown;
+    color: white;
+}
